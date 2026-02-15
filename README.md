@@ -29,6 +29,10 @@
   - [There was an error opening the file](#there-was-an-error-opening-the-file)
   - [All my references are missing](#all-my-references-are-missing)
 
+> **Warning**
+> This project is now archived and will no longer be maintained. Please use the core template for any new inventor addins.:
+> [Link](https://github.com/TWiesendanger/ExtrabbitCode.Inventor.Core.Template)
+
 ## Introduction
 
 If you ever copied multiple things from other addins over and over again, then you will like this template. The idea is to provide a template that already includes alot of standard features that every addin needs. If you want to there is nothing to change at all. You could use a generated addin from this template right out of the box. Things like guids are already generated. There is also a build script to automatically deploy it to a predefined folder.
